@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/eaa13501-79f7-4e2c-aa13-d3d321a074f5)
+![image](https://github.com/user-attachments/assets/a1f39d62-87a9-4442-8fee-9798875e3ba5)
+
+
+
 # pokemon-game
 
 This template should help get you started developing with Vue 3 in Vite.
